@@ -1,0 +1,30 @@
+Name: jANE
+Age: 23
+Address: 285 MILES ROAD
+Salary: 20000
+ID: 1
+
+Name: Josh
+Age: 46
+Address: 46 RYMAL RD
+Salary: 87977
+ID: 7
+
+Name: Stan
+Age: 28
+Address: 310 Mcdonald rd
+Salary: 60000
+ID: 8
+
+Name: Christopher
+Age: 46
+Address: 901 Chrystal Rd
+Salary: 103000
+ID: 14
+
+Name: Barb May
+Age: 67
+Address: 56 Adler Lane
+Salary: 79000
+ID: 20
+
