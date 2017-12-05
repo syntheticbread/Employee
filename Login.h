@@ -50,7 +50,7 @@ public:
 				cout << "Login attempt failed \n";
 				Sleep(1000);
 				system("cls");
-				IslogedIn();
+				Login_window();
 			}
 
 			else {

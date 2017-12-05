@@ -50,23 +50,8 @@ class INFO {
 			ifstream file("Employee Data.txt");
 			while (getline(file, line))
 			{
-				
-			
 				cout << line << "\n";
-				
-
-			}
-
-			
-						
+				}
 			
 		}
-
-
-													  
-		
-
-		
-
-
 };
